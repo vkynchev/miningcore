@@ -61,6 +61,7 @@ namespace MiningCore.Configuration
         FLO, // Flo
         PAK, // PAKcoin
         CANN, // CannabisCoin
+        MUE, // MonetaryUnit
     }
 
     public class CoinConfig
